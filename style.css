@@ -1,12 +1,10 @@
 body {
     background-color: #64553e;
-    color: #1E201E
+    color: #1E201E;
     font-family: "Noto Music", sans-serif;
-
 }
-
 .chamada {
-    background: #79a86a
+    background: #79a86a;
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex;
